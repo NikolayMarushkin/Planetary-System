@@ -1,0 +1,7 @@
+﻿  func.cpp
+  Main.cpp
+c:\users\nikolay\onedrive\документы\visual studio 2015\projects\planetary system\planetary system\main.cpp(38): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+c:\users\nikolay\onedrive\документы\visual studio 2015\projects\planetary system\planetary system\main.cpp(41): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+c:\users\nikolay\onedrive\документы\visual studio 2015\projects\planetary system\planetary system\main.cpp(44): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+  Создание кода...
+  Planetary System.vcxproj -> C:\Users\Nikolay\OneDrive\Документы\Visual Studio 2015\Projects\Planetary System\Debug\Planetary System.exe
